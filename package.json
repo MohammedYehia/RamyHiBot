@@ -1,0 +1,15 @@
+{
+  "name": "ramyhibot",
+  "version": "1.0.0",
+  "description": "bot that reply with hi for every message Just for fun ^_^",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "Mohammed Yehia",
+  "license": "ISC",
+  "dependencies": {
+    "telebot": "^1.2.6"
+  }
+}
